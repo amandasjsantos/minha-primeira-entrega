@@ -42,3 +42,4 @@ Neste curso você faz, de verdade, o caminho de toda entrega das disciplinas: um
 
 - **Nome:** Amanda Santos de Jesus
 - **Curso:** Análise e Desenvolvimento de Sistemas
+- **Meu site:** https://amandasjsantos.github.io/minha-primeira-entrega/
