@@ -46,9 +46,7 @@ Neste curso você faz, de verdade, o caminho de toda entrega das disciplinas: um
 
 ---
 
-## 👤 Sobre mim
-
-<img src="https://maristelaoliveira.github.io/curso-github/assets/memoji/acenando.webp" width="70" align="right" alt="">
+## 👩‍🦰 Sobre mim
 
 - **Nome:** Amanda Santos de Jesus
 - **Curso:** Análise e Desenvolvimento de Sistemas
